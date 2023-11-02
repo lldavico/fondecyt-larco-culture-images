@@ -1,0 +1,8 @@
+*.DS_Store
+*.pem
+*.log
+
+# Large data files
+openai_embeddings.csv
+tfidf_vectors.csv
+bert_embeddings.csv
