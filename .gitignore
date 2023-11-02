@@ -6,3 +6,6 @@
 openai_embeddings.csv
 tfidf_vectors.csv
 bert_embeddings.csv
+
+# Notebook files cache
+*.ipynb_checkpoints
